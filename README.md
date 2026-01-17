@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanshrestha17&label=Profile%20views&color=0e75b6&style=flat" alt="bigyanshrestha17" /> </p>
 
-- 🔭 I’m currently working on [Vehicle Rent Website](https://github.com/BigyanShrestha17/vehicle_rent)
+- 🔭 I’m currently working on [Portfolio-Website](https://github.com/BigyanShrestha17/portfolio_website)
 
-- 🌱 I’m currently learning **Photoshop,InDesign,Illustrator**
+- 🌱 I’m currently learning **Flutter,Django,Python**
 
 - 📫 How to reach me **bigyanshrestha63@gmail.com**
 
